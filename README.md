@@ -12,3 +12,6 @@
 
 <h2>Punto 2</h2>
 <img src="./public/images/html.png" alt="html">
+
+<h2>Punto 3</h2>
+<img src="./public/images/css.png" alt="html">
