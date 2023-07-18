@@ -1,0 +1,24 @@
+#section u{
+    color: green;
+}
+#section strong{
+    color: red;
+}
+
+.info strong{
+    font-size: 40px;
+}
+
+.final{
+    font-size: 20px;
+
+}
+.final strong{
+    color: blue;
+    
+}
+
+.final strong u{
+    color: red;
+
+}

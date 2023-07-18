@@ -1,0 +1,42 @@
+table{
+    margin: 0 auto;
+   
+}
+
+table,
+
+td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: yellow;
+}
+
+.border{
+    text-align: center;
+    padding: 10px;
+
+    border-bottom: 3px dotted red;
+}
+
+
+#izquierda{
+    font-family: cursive;
+    color: red;
+}
+.derecha{
+    font-family: cursive ;
+    color: red;
+}
+
+
+.custom table td{
+    color: black;
+    text-align: left;
+    padding: 10px;
+    border: 1px solid black;
+    
+}
+
+.numeros{
+    text-align: left;
+}

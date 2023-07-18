@@ -15,3 +15,18 @@
 
 <h2>Punto 3</h2>
 <img src="./public/images/css.png" alt="html">
+
+<h2>Punto 4</h2>
+<img src="./public/images/punto4 html.png" alt="html">
+
+<h2>Punto 5</h2>
+<img src="./public/images/punto 5.png" alt="html">
+
+<h2>Punto 6</h2>
+<img src="./public/images/punto 6.png" alt="html">
+
+<h2>Punto 7</h2>
+<img src="./public/images/punto 7.png" alt="html">
+
+<h2>Punto 9</h2>
+<img src="./public/images/punto 9.png" alt="html">
