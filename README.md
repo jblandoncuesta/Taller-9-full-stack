@@ -4,6 +4,9 @@
 <p>curso full stack basico - grupo 1</p>
 <p>Profesor: Cristian Patiño</p>
 
+<h3>link pagina web</h3>
+<a href="https://jblandoncuesta.github.io/Taller-9-full-stack/" target="_blank">link pagina web</a>
+
 <h2>Punto-1</h2>
 
 <h2>Punto-1: link de figma</h2>
